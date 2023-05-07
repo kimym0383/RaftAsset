@@ -17,4 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Assets/01.Scenes/scNetTest.unity
     guid: 34fb6809f2883c344b0a80ba3b8aebb7
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ebd89771d6195334c9213221614c60f8,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d51837fab5cc4424f90cb0b588cd43ec,
+      type: 2}

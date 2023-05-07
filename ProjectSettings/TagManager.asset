@@ -38,6 +38,9 @@ TagManager:
   - HPGage
   - ItemGetUI
   - ItemNameUI
+  - Tree
+  - Beam
+  - Rock
   layers:
   - Default
   - TransparentFX
